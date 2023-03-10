@@ -46,3 +46,6 @@ So far has just begun to study at [RS School](https://rs.school/)
 ![My Status](status.JPG)
 
 ---
+####Langueges
+* **Español** ___A1___
+* **English** ___Beginner___
